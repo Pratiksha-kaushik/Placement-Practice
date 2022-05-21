@@ -1,5 +1,5 @@
-
 //https://youtu.be/32Ll35mhWg0 ---> refer 
+//Find the duplicate in an array of N integers
 #include<iostream>
 using namespace std;
 
